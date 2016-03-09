@@ -9,8 +9,4 @@ public class Exam {
 		throw new RuntimeException();
 	}
 
-	public static int numberOfHostAllowed(char classIp) {
-		throw new RuntimeException();
-	}
-
 }
